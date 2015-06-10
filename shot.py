@@ -1,0 +1,1 @@
+print("Now touŕe dead")
